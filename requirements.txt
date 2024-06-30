@@ -1,0 +1,7 @@
+langchain
+ctransformers
+transformers
+sentence-transformers
+tensorflow
+h5py
+sentencepiece
